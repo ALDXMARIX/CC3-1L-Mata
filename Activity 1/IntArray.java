@@ -2,7 +2,6 @@
 import java.util.Scanner;
 
 public class IntArray {
-
 	public static void main(String[] args) {
 
 		int i, input = 0, sum = 0;
